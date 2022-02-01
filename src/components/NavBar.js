@@ -15,19 +15,19 @@ export default function NavBar() {
                     </NavLink>
                     <NavLink to="/post"
                         className="inline-flex items-center py-3 px-3 my-6 rounded hover:text-blue-800"
-                        activeClassName="text-blue-700"
+                        activeClassName="bg-blue-700"
                     >
                         Blog Posts
                     </NavLink>
                     <NavLink to="/project" 
                         className="inline-flex items-center py-3 px-3 my-6 rounded hover:text-blue-800"
-                        activeClassName="text-blue-700"
+                        activeClassName="bg-blue-700"
                     >
                         Projects
                     </NavLink>
                     <NavLink to="/about" 
                         className="inline-flex items-center py-3 px-3 my-6 rounded hover:text-blue-800"
-                        activeClassName="text-blue-700"
+                        activeClassName="bg-blue-700"
                     >
                         About Me
                     </NavLink>
