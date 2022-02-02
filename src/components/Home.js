@@ -1,5 +1,5 @@
 import React from "react"
-import image from "../tpa.jpeg"
+import image from "../tampa-skyline.jpg"
 
 export default function Home() {
     return (
